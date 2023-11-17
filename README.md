@@ -43,7 +43,5 @@ Continuing the day 2 of my 100DaysOfDeepLearning, today I learned about binary c
 
 On the third day of #100daysofdeeplearning, today I learned about gradient descent, how it is derived and also implemented logistic regression gradient descent in python. I also learned about computation graph and derivatives with computation graph.I have posted a short summary of the things I learned in the linkedin. You can check it out [**here**](https://www.linkedin.com/posts/drishya-karki_day3-activity-7131293446408966144-9P_I?utm_source=share&utm_medium=member_desktop). I hope you will also spend some time to study about these topics following the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning) course. Looking forward to the days ahead! 
 
-![day2](images/day3.png)
-
-
+![day3](images/day3.png)
 
