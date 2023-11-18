@@ -33,11 +33,17 @@ Starting our #Day1 of #100DaysOfDeepLearning, here are the few things I learned 
 
 - He talks about how there are more data, more better computational hardware and  better research algorithm which will all contribute in significant amount of advancements in Deep Learning field for a long time in future too.
 
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+
 ## Day 2
 
 Continuing the day 2 of my 100DaysOfDeepLearning, today I learned about binary classification and how to apply logistic regression for the binary classification. I learned about the need of sigmoid function, how to learn weight and biases for accurate predictions. Furthermore, I learned about loss function and cost function of logistic regression - the main difference between them. I have posted a short summary of the things I learned in the linkedin and also the python implementation. You can check it out [**here**](https://www.linkedin.com/posts/drishya-karki_day2-activity-7130925730271547392-KOjz?utm_source=share&utm_medium=member_android) I hope you will also give your time to study about these topics following the Deep Learning Specialization course. Looking forward to the days ahead! [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning).
 
 ![day2](images/day2.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 
 ## Day 3
 
@@ -45,3 +51,18 @@ On the third day of #100daysofdeeplearning, today I learned about gradient desce
 
 ![day3](images/day3.png)
 
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+
+## Day 4
+
+Today I learned about vectorization - an important technique which helps in performing operations quite faster rather than the typical **for loops**. It enables parallelization on both CPU and GPU. I learned about its importance, how it can help in reducing computational cost and make it more efficient, implemented it for forward propagation as well as backward propagation of logistic regression. It is recommended to implement vectorization rather than explicit for loops whenever possible. It introduces SIMD(Single Instruction Multiple Data). Below are the python implementation of the things I learned. Excited for the coming days! Happy Learning :)
+
+**Basic Implementation showing the difference between the computation of vectorized and non-vectorized approach**
+![day4](images/day4.png)
+
+**In Logistic Regression**
+![day4](images/day4LR.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
