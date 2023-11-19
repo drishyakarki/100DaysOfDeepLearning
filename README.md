@@ -16,6 +16,7 @@
 
 ## Books
 - [**Deep Learning for Coders with Fastai and PyTorch**](https://www.amazon.com/_/dp/1492045527?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20)
+- [**Dive into Deep Learning**](https://d2l.ai/)
 
 -------
 
@@ -66,3 +67,14 @@ Today I learned about vectorization - an important technique which helps in perf
 
 **Resources**
 - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+
+## Day 5
+
+**Broadcasting** is a very important concept to understand in numpy which is very useful for performing mathematical operations between arrays of different shapes. Continuing my journey on the 5th day, I learned about broadcasting and its role, common steps for preprocessing a new dataset, how to build parts of your algorithms, helper functions, forward and backward propagation along with optimization. Below is the python implementation of the things I learned. I have also started learning from the book [**Dive into Deep Learning**](https://d2l.ai/). Excited for the coming days! Happy Learning :)
+
+![day5](images/day5.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+- [**Broadcasting in Numpy**](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+- [**Dive into Deep Learning**](https://d2l.ai/)
