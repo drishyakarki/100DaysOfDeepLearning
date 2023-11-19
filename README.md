@@ -77,4 +77,3 @@ Today I learned about vectorization - an important technique which helps in perf
 **Resources**
 - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 - [**Broadcasting in Numpy**](https://numpy.org/doc/stable/user/basics.broadcasting.html)
-- [**Dive into Deep Learning**](https://d2l.ai/)
