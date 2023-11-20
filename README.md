@@ -77,3 +77,24 @@ Today I learned about vectorization - an important technique which helps in perf
 **Resources**
 - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 - [**Broadcasting in Numpy**](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+
+## Day 6
+
+🚀 Day-6 of #100DaysOfDeepLearning
+
+Activation functions are mathematical operations applied to the output of the neuron in neural network which introduces non-linearities to the network. It enables a network to learn complex patterns and relationships in the data. 
+On the Day-6 of #100DaysOfDeepLearning, today I learned about various activation functions - sigmoid, tanh, ReLU, leaky ReLU and the intuition behind them.I also studied about the gradient descent for neural network, cost function and random initilaization of the neural network. From the book D2L, I learned about object oriented design for implementation. At a high level, we wish to have three classes: 
+(i) Module 
+(ii) DataModule
+(iii) Trainer 
+Hope you will also spend some time to study about these topics following the Deep Learning Specialization course and Dive into Deep Learning book. Looking forward to the days ahead! Happy Learning :)
+
+**Object Oriented Design Implementation**
+![day6](images/day6.png)
+
+**Sin-Cos plot with different smoothness**
+![day6](images/day6-sinecos.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+- [**Dive into Deep Learning**](https://d2l.ai/)
