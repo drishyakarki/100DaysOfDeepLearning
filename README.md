@@ -18,6 +18,8 @@
 - [**Deep Learning for Coders with Fastai and PyTorch**](https://www.amazon.com/_/dp/1492045527?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20)
 - [**Dive into Deep Learning**](https://d2l.ai/)
 
+## Projects and Notebooks
+1. [**Dive Into Deep Learning**](https://github.com/drishyakarki/Dive-into-Deep-Learning)
 -------
 
 ## Day 1
@@ -80,9 +82,7 @@ Today I learned about vectorization - an important technique which helps in perf
 
 ## Day 6
 
-🚀 Day-6 of #100DaysOfDeepLearning
-
-Activation functions are mathematical operations applied to the output of the neuron in neural network which introduces non-linearities to the network. It enables a network to learn complex patterns and relationships in the data. 
+🚀 Activation functions are mathematical operations applied to the output of the neuron in neural network which introduces non-linearities to the network. It enables a network to learn complex patterns and relationships in the data. 
 On the Day-6 of #100DaysOfDeepLearning, today I learned about various activation functions - sigmoid, tanh, ReLU, leaky ReLU and the intuition behind them.I also studied about the gradient descent for neural network, cost function and random initilaization of the neural network. From the book D2L, I learned about object oriented design for implementation. At a high level, we wish to have three classes: 
 (i) Module 
 (ii) DataModule
@@ -98,3 +98,15 @@ Hope you will also spend some time to study about these topics following the Dee
 **Resources**
 - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 - [**Dive into Deep Learning**](https://d2l.ai/)
+
+## Day 7
+
+Today I learned about deep l-layer neural network, forward and backward propagation on deep network, how to get your dimensions right, building blocks of DNN and about the parameters and hyperparameters from **Deep Learning Specialization**. From the book **Dive into Deep Learning** I read about different concepts such as model complexity, underfitting or overfitting, polynomial curve fitting, cross-validation, loading the dataset, reading the minibatch, softmax, cross-entropy loss. Below is just the snapshot of the implementation of softmax regression from scratch and also the concise implentation of softmax regression along with the visualization of fashionMNIST. You can checkout the notebooks for the full implementation.
+
+![day7](images/day7.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**ImageClassificationDataset**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/imageClassificationDataset.ipynb)
+- [**Softmax Regression**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/softmaxRegression.ipynb)
