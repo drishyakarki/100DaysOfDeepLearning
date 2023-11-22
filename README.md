@@ -110,3 +110,16 @@ Today I learned about deep l-layer neural network, forward and backward propagat
 - [**Dive into Deep Learning**](https://d2l.ai/)
 - [**ImageClassificationDataset**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/imageClassificationDataset.ipynb)
 - [**Softmax Regression**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/softmaxRegression.ipynb)
+
+## Day 8
+
+
+A Multi-Layer Perceptron is a type of artificial neural network that consists of multiple layers of nodes, or neurons, organized in a series of interconnected layers. It is a feedforward neural network.On the Day-8 of #100daysofdeeplearning, today I learned about setting up ML Application, train/dev/test sets, bias and variance, the basic "recipe" for machine learning. I also studied about the bias-variance tradeoff, regularization. Also, from the book D2L, I studied about MLPs, universal approximators.
+Below is the snapshot of the python implementation of the MLPs- you can checkout the full notebooks in the github repo below. I hope you will also spend some time dwelling on these topics from the book and the specialization course itself. Happy Learning :)
+
+![day8](images/day8.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**Implementation of MultiLayer-Perceptron**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/mlpImplementation.ipynb)
