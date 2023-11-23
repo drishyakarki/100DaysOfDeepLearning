@@ -113,7 +113,6 @@ Today I learned about deep l-layer neural network, forward and backward propagat
 
 ## Day 8
 
-
 A Multi-Layer Perceptron is a type of artificial neural network that consists of multiple layers of nodes, or neurons, organized in a series of interconnected layers. It is a feedforward neural network.On the Day-8 of #100daysofdeeplearning, today I learned about setting up ML Application, train/dev/test sets, bias and variance, the basic "recipe" for machine learning. I also studied about the bias-variance tradeoff, regularization. Also, from the book D2L, I studied about MLPs, universal approximators.
 Below is the snapshot of the python implementation of the MLPs- you can checkout the full notebooks in the github repo below. I hope you will also spend some time dwelling on these topics from the book and the specialization course itself. Happy Learning :)
 
@@ -123,3 +122,16 @@ Below is the snapshot of the python implementation of the MLPs- you can checkout
 - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 - [**Dive into Deep Learning**](https://d2l.ai/)
 - [**Implementation of MultiLayer-Perceptron**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/mlpImplementation.ipynb)
+
+## Day 9
+
+On the ninth day of #100daysodeeplearning, today I learned about various topics such as regualarization, how it helps in reducing variance and preventing overfitting, different regularization techniques - L1 regularization, L2 regularization, dropout, weight decay(sometimes L2-Reg is also called weight decay) and data augmentation from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning). Similarly, I learned about vanishing gradients, exploding gradients, visualized them; numerical stability and the need for correct parameter initialization, early stopping, implemented dropout and also predicted housing prices on kaggle: data preprocessing, error measure, k-fold cross validation, weight decay. 
+Below is the snapshot of the code- you can checkout the full notebooks by visiting the links below. I hope you will also spend some time dwelling on these topics from the book and the specialization course itself. Happy Learning :)
+
+![day9](images/day9.png)
+![day9](images/day9-2.png)
+
+**Resources**
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**Predicting House Prices**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/kaggleHousePrediction.ipynb)
