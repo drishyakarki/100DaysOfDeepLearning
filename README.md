@@ -148,3 +148,17 @@ Below is just the some part of the code from all the notebooks- you can checkout
 - [**Dive into Deep Learning**](https://d2l.ai/)
 - [**Builder's Guide**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/buildersGuide)
 
+## Day 11
+
+On the Day-11 of #100daysodeeplearning, I learned about various topics relating to Convolutional Neural Networks such as translation invariance, locality, convolution, feature map, receptive layers, padding and strides, batch normalization, LeNet architecture. I also studied and implemented different modern CNN architectures: AlexNet, VGG, Network in Network, googleNet, ResNet, DenseNet, RegNet.
+Below is the architecure of LeNet and ResNet from all the notebooks- you can checkout the full notebook for the implementation of other networks in the github repo. I have two seperate folders, one for CNN in low level from scratch, and other, with the modern CNNs architecture I hope you will also spend some time dwelling on these topics from the book Dive into Deep Learning.Happy Learning :)
+
+![day11](images/day11.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**CNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/cnn)
+- [**Modern CNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/modernCNN)
+
