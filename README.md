@@ -125,7 +125,7 @@ Below is the snapshot of the python implementation of the MLPs- you can checkout
 
 ## Day 9
 
-On the ninth day of #100daysodeeplearning, today I learned about various topics such as regualarization, how it helps in reducing variance and preventing overfitting, different regularization techniques - L1 regularization, L2 regularization, dropout, weight decay(sometimes L2-Reg is also called weight decay) and data augmentation from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning). Similarly, I learned about vanishing gradients, exploding gradients, visualized them; numerical stability and the need for correct parameter initialization, early stopping, implemented dropout and also predicted housing prices on kaggle: data preprocessing, error measure, k-fold cross validation, weight decay. 
+On the ninth day of #100daysofdeeplearning, today I learned about various topics such as regualarization, how it helps in reducing variance and preventing overfitting, different regularization techniques - L1 regularization, L2 regularization, dropout, weight decay(sometimes L2-Reg is also called weight decay) and data augmentation from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning). Similarly, I learned about vanishing gradients, exploding gradients, visualized them; numerical stability and the need for correct parameter initialization, early stopping, implemented dropout and also predicted housing prices on kaggle: data preprocessing, error measure, k-fold cross validation, weight decay. 
 Below is the snapshot of the code- you can checkout the full notebooks by visiting the links below. I hope you will also spend some time dwelling on these topics from the book and the specialization course itself. Happy Learning :)
 
 ![day9](images/day9.png)
@@ -138,7 +138,7 @@ Below is the snapshot of the code- you can checkout the full notebooks by visiti
 
 ## Day 10
 
-On the Day-10 of #100daysodeeplearning, I learned about numerical approximations of gradients, gradient checking, understanding mini-batch gradient descent, various optimization algorithms such as exponentially weighted average,bias correction, gradient descent with momentum, RMSProp and the combination of these two Adam Optimization algorithm from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning). Similarly, I read and implemented different topics from the book [**Dive into Deep Learning**](https://d2l.ai/)(chapter: **Builder's Guide**) relating to construction of custom models, creating custom layers and modules, parameter management, accessing the targeted parameters, tied parameters, layers with and without parameters, reading and writing tensors to file and gpu usage.
+On the Day-10 of #100daysofdeeplearning, I learned about numerical approximations of gradients, gradient checking, understanding mini-batch gradient descent, various optimization algorithms such as exponentially weighted average,bias correction, gradient descent with momentum, RMSProp and the combination of these two Adam Optimization algorithm from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning). Similarly, I read and implemented different topics from the book [**Dive into Deep Learning**](https://d2l.ai/)(chapter: **Builder's Guide**) relating to construction of custom models, creating custom layers and modules, parameter management, accessing the targeted parameters, tied parameters, layers with and without parameters, reading and writing tensors to file and gpu usage.
 Below is just the some part of the code from all the notebooks- you can checkout the full notebook implementation in the github repo. I hope you will also spend some time dwelling on these topics from the book and the specialization course itself. Happy Learning :)
 
 ![day10](images/day10.png)
@@ -150,8 +150,8 @@ Below is just the some part of the code from all the notebooks- you can checkout
 
 ## Day 11
 
-On the Day-11 of #100daysodeeplearning, I learned about various topics relating to Convolutional Neural Networks such as translation invariance, locality, convolution, feature map, receptive layers, padding and strides, batch normalization, LeNet architecture. I also studied and implemented different modern CNN architectures: AlexNet, VGG, Network in Network, googleNet, ResNet, DenseNet, RegNet.
-Below is the architecure of LeNet and ResNet from all the notebooks- you can checkout the full notebook for the implementation of other networks in the github repo. I have two seperate folders, one for CNN in low level from scratch, and other, with the modern CNNs architecture I hope you will also spend some time dwelling on these topics from the book Dive into Deep Learning.Happy Learning :)
+On the Day-11 of #100daysofdeeplearning, I learned about various topics relating to Convolutional Neural Networks such as translation invariance, locality, convolution, feature map, receptive layers, padding and strides, batch normalization, LeNet architecture. I also studied and implemented different modern CNN architectures: AlexNet, VGG, Network in Network, googleNet, ResNet, DenseNet, RegNet.
+Below is the architecture of LeNet and ResNet from all the notebooks- you can checkout the full notebook for the implementation of other networks in the github repo. I have two seperate folders, one for CNN in low level from scratch, and other, with the modern CNNs architecture I hope you will also spend some time dwelling on these topics from the book Dive into Deep Learning.Happy Learning :)
 
 ![day11](images/day11.png)
 
@@ -161,4 +161,32 @@ Below is the architecure of LeNet and ResNet from all the notebooks- you can che
 **Notebooks**
 - [**CNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/cnn)
 - [**Modern CNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/modernCNN)
+
+## Day 12
+
+On the Day-12 of #100daysofdeeplearning, I learned about sequence models, vocabulary, recurrent neural network: forward propagation and backward propagation through time, different types of RNN, language model and sequence generation, autoregressive models, markov models, the order of decoding, converting raw text into sequence data, tokenization, exploratory language statistics, zipf's law, unigram, bigram and trigram.
+Below is the snapshot of the code- you can checkout the full notebook for the implementation of other networks in the github repo.I hope you will also spend some time dwelling on these topics from the book Dive into Deep Learning.Happy Learning :)
+
+![day12](images/day12.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+
+**Notebooks**
+- [**Sequence models**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/RNN)
+
+## Day 13
+
+Today I learned about language models, sequence generation, vanishing gradients with RNN, exploding gradients with RNN, word embeddings, laplace smoothing, perpelxity, RNN. I also learned and implemented RNN from scratch along with gradient clipping, one hot encoding and decoding. 
+Here is the snapshot of the code. I have uploaded the full implementation notebook in the github, you can check it out if you like. Hope you will also spend some time reading about these topics. Keep Learning :)
+
+![day13](images/day13.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+- [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
+
+**Notebooks**
+- [**RNN from scratch**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/RNN)
 
