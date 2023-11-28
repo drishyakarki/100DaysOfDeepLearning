@@ -190,3 +190,16 @@ Here is the snapshot of the code. I have uploaded the full implementation notebo
 **Notebooks**
 - [**RNN from scratch**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/RNN)
 
+## Day 14
+
+Our from-scratch implementations was designed to provide insight into how each components work. But for writing production code and using RNNs every day, we will want to rely more on libraries that provide us efficiency in both implentation time as well as computation time. Today, on the day 14th of #100daysofdeeplearning, I learned and implemented RNNs concisely by high-level APIs on the Time Machine Dataset.
+Here is the snapshot of the code. You can check out the results and predictions in the github repo itself. Hope you will also spend some time reading about these topics. Keep Learning :)
+
+![day14](images/day14.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Concise Implementation of RNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/RNN)
+
