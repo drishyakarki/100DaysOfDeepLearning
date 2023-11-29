@@ -203,3 +203,16 @@ Here is the snapshot of the code. You can check out the results and predictions 
 **Notebooks**
 - [**Concise Implementation of RNN**](https://github.com/drishyakarki/Dive-into-Deep-Learning/tree/main/RNN)
 
+## Day 15
+
+Shortly after the first RNNs were trained using backpropagation, the problems of learning long-term dependencies(vanishing and exploding gradients) became noticeable. Gradient Clipping helped with exploding gradients but addressing vanishing gradients required more elaborate solutions. One of the first and most successful techniques for addressing vanishing gradients came in the form of LSTM(Long short-term memory) model. They have three types of gates: input, forget and output gates that control the flow of information. Later as LSTM architecture gained popularity, number of researchers experimented with it to simplify the architecture. As a result of such initiative, Gated Recurrent Units(GRUs) were introduced which aoften achieves comparable performance as that of LSTMs but with the advantage of faster computation. Here, the LSTMs gates are replaced by two gates: reset and update gates. Also, deep RNNs were introduced which involved stacking multiple layers of RNNs to create a deep architecture. We often constuct RNNs that are deep not only in the time direction but also in the input-to-output direction.
+Below is the snapshot of concise implementation of some of the RNNs architectures such as LSTMs, GRUs, Deep RNNs. You can check out the from-scratch implementation and the predictions in the notebook. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/) itself. Keep Learning :)
+
+![day15](images/day15.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Some Modern RNNs architecture**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/modernRNNArchitecture.ipynb)
+
