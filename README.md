@@ -93,6 +93,7 @@ Hope you will also spend some time to study about these topics following the Dee
 ![day6](images/day6.png)
 
 **Sin-Cos plot with different smoothness**
+
 ![day6](images/day6-sinecos.png)
 
 **Resources**
