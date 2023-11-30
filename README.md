@@ -216,3 +216,17 @@ Below is the snapshot of concise implementation of some of the RNNs architecture
 **Notebooks**
 - [**Some Modern RNNs architecture**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/modernRNNArchitecture.ipynb)
 
+
+## Day 16
+
+As modern RNNs gain popularity, one of the major breakthroughs was in the applied field of statistical machine translation. Here, the model is presented with a sentence in one language and must predict the corresponding sentence in another even though the sentences may be of different lengths and the corresponding words in the two sentences may not occur in the same order. On the day-16 of my #100daysofdeeplearning, today I learned about the machine translation problem and an example dataset (English-French dataset). I implemented different data preprocessing techniques, tokenization, loading sequences of fixed length, padding. Using word-level tokenization the vocab size will be significantly larger than using character-level tokenization, but the sequence lengths will be much shorter. To mitigate the large vocabulary size, we treat infrequent tokens as "unknown" tokens.
+Below is the snapshot of the code. You can check out the full implementation and the results in the notebook. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/) itself. Keep Learning :)
+
+![day16](images/day16.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Machine Translation and Dataset**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/machineTranslation.ipynb)
+
