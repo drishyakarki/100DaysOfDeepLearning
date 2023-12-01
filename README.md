@@ -242,5 +242,5 @@ Below is the snapshot of the code. You can check out the full implementation and
 - [**Dive into Deep Learning**](https://d2l.ai/)
 
 **Notebooks**
-- [**Sequence-to-Sequence Learning**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/machineTranslation.ipynb)
+- [**Sequence-to-Sequence Learning**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/seq2seq.ipynb)
 
