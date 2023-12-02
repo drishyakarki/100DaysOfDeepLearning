@@ -244,3 +244,17 @@ Below is the snapshot of the code. You can check out the full implementation and
 **Notebooks**
 - [**Sequence-to-Sequence Learning**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/RNN/seq2seq.ipynb)
 
+## Day 18
+
+The Transformer is an instance of the encoder--decoder architecture,though either the encoder or the decoder can be used individually in practice. In the Transformer architecture, multi-head self-attention is used
+for representing the input sequence and the output sequence, though the decoder has to preserve the autoregressive property via a masked version. On the 18th day, I learned about attention machanisms and transformers. I covered various topics such as kernels, attention pooling, scaled dot product attention, masked softmax operation, additive attention, bahdanu attention mechanism, multi-head attention, self-attention, positional encodeing and many more.
+Below is the snapshot of the architecture of encoder and decoder of the transformer. You can check out the full implementation and the results in the notebook. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/) itself. Keep Learning :)
+
+![day18](images/day18.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Attention Mechanism**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/attention-mechanism/transformer.ipynb)
+
