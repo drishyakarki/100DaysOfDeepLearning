@@ -258,3 +258,16 @@ Below is the snapshot of the architecture of encoder and decoder of the transfor
 **Notebooks**
 - [**Attention Mechanism**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/attention-mechanism/transformer.ipynb)
 
+## Day 19
+
+The Transformer architecture was initially proposed for sequence-to-sequence learning.Naturally, researchers started to wonder if it might be possible to do better by adapting transformer models to image data instead of CNN. Vision Transformers(ViTs) extract patches from images and feed them into a Transformer encoder to obtain a global representation, which will finally be transformed for classification. Notably, the transformers show better scalability than CNNs.Today, I studied about vision transformers, large scale pretraining with transformers, different pretrained transformers such as BERT, T5, BART, GPTs, large language models and so on.
+Below is the snapshot of the architecture of vision transformers. You can check out the full implementation and the results in the notebook. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/) itself. Keep Learning :)
+
+![day19](images/day19.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Vision Transformers**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/attention-mechanism/visionTransformer.ipynb)
+
