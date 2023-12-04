@@ -271,3 +271,16 @@ Below is the snapshot of the architecture of vision transformers. You can check 
 **Notebooks**
 - [**Vision Transformers**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/attention-mechanism/visionTransformer.ipynb)
 
+## Day 20
+
+On the 20<sup>th</sup> day of #100DaysofDeepLearning, today I studied the chapter optimization from the book [**Dive into Deep Learning**](https://d2l.ai/). I covered various topics from goal of optimization, local maxima, saddle point, convexity, jensen's inequality, penalties, projections, gradient descent, minibatch SGD, adam, yogi, adagrad, RMSProp and many more.
+Below is the snapshot of Cosine Scheduler. Hope you will also spend some time learning about these topics from the book. Keep Learning :)
+
+![day20](images/day20.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Lr-scheduler**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/optimization/lr-scheduler.ipynb)
+
