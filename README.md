@@ -274,7 +274,7 @@ Below is the snapshot of the architecture of vision transformers. You can check 
 ## Day 20
 
 On the 20<sup>th</sup> day of #100DaysofDeepLearning, today I studied the chapter optimization from the book [**Dive into Deep Learning**](https://d2l.ai/). I covered various topics from goal of optimization, local maxima, saddle point, convexity, jensen's inequality, penalties, projections, gradient descent, minibatch SGD, adam, yogi, adagrad, RMSProp and many more.
-Below is the snapshot of Cosine Scheduler. Hope you will also spend some time learning about these topics from the book. Keep Learning :)
+Below is the snapshot of Cosine Scheduler with and without warmup. Hope you will also spend some time learning about these topics from the book. Keep Learning :)
 
 ![day20](images/day20.png)
 
@@ -283,4 +283,14 @@ Below is the snapshot of Cosine Scheduler. Hope you will also spend some time le
 
 **Notebooks**
 - [**Lr-scheduler**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/optimization/lr-scheduler.ipynb)
+
+## Day 21
+
+In deep learning, datasets and models are usually large, which involves heavy computation. So, computational performance matters a lot.On the day-21 of #100daysofdeeplearning, today I studied about various factors that affect computational performance: imperative programming, symbollic programming, asynchronous computing, automatic parallelism, and multi-GPU computation. They may further improve computational performance of the models like - by reducing training time without affecting accuracy.
+Below is the code for training a resnet on a single gpu as well as on 2 GPUs. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
+
+![day21](images/day21.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
 
