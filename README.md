@@ -294,3 +294,15 @@ Below is the code for training a resnet on a single gpu as well as on 2 GPUs. Ho
 **Resources**
 - [**Dive into Deep Learning**](https://d2l.ai/)
 
+## Day 22
+
+Whether it is medical diagnosis, self-driving vehicles, camera monitoring, or smart filters, many applications in the field of computer vision are closely related to our current and future lives. In recent years, deep learning has been the transformative power for advancing the performance of computer vision systems. It can be said that the most advanced computer vision applications are almost inseparable from deep learning. Today, on the 22th day, I studied and implemented various image augmentation methods, trained with image augmentation, finetuned resenet model for hot dog recognition.
+Below is the snapshot of finetuning the model for hot dog recognition. I have uploaded full implementation on the github. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
+
+![day22](images/day22.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Image Augmentation and Finetuning**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/imgAug-and-finetune.ipynb)
