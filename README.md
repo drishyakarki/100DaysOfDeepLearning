@@ -306,3 +306,16 @@ Below is the snapshot of finetuning the model for hot dog recognition. I have up
 
 **Notebooks**
 - [**Image Augmentation and Finetuning**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/imgAug-and-finetune.ipynb)
+
+## Day 23
+
+Object detection has been widely applied in many fields. For example, self-driving needs to plan traveling routes by detecting the positions of vehicles, pedestrians, roads, and obstacles in the captured video images. Besides, robots may use this technique to detect and localize objects of interest throughout its navigation of an environment. Moreover, security systems may need to detect abnormal objects, such as intruders or bombs. Today, I studied about object detection, bounding boxes, multiple bounding boxes varying scales and aspect ratios centered on each pixel - Anchor boxes, Jaccard index, predicting bounding boxes with Non-Maximum Supression.
+Below is the predicted bounding box applied on an image for multiple object detection. I have uploaded full implementation on my github repo. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
+
+![day23](images/catDogAnchor.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Object Detection and Anchor Boxes**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/objDetection.ipynb)
