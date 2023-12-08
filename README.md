@@ -319,3 +319,16 @@ Below is the predicted bounding box applied on an image for multiple object dete
 
 **Notebooks**
 - [**Object Detection and Anchor Boxes**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/objDetection.ipynb)
+
+## Day 24
+
+Single shot Multibox Detection is a multiscale object detection model that employs a base network and multiscale feature map blocks to generate anchor boxes for different-sized objects. During training, the model calculates the loss function by comparing predicted and labeled values for anchor box classes and offsets, enabling accurate prediction of object classes and bounding box locations. Today I studied about various topics like multiscale anchor boxes, multiscale detection, single shot multibox detection ant topics related to it.
+Below is the snapshot of the SSD model and its training code. I have uploaded full implementation on my github repo. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
+
+![day24](images/day24.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
+
+**Notebooks**
+- [**Single shot Multibox Detection**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/objDetection.ipynb)
