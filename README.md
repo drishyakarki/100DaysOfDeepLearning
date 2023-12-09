@@ -322,7 +322,7 @@ Below is the predicted bounding box applied on an image for multiple object dete
 
 ## Day 24
 
-Single shot Multibox Detection is a multiscale object detection model that employs a base network and multiscale feature map blocks to generate anchor boxes for different-sized objects. During training, the model calculates the loss function by comparing predicted and labeled values for anchor box classes and offsets, enabling accurate prediction of object classes and bounding box locations. Today I studied about various topics like multiscale anchor boxes, multiscale detection, single shot multibox detection ant topics related to it.
+Single shot Multibox Detection is a multiscale object detection model that employs a base network and multiscale feature map blocks to generate anchor boxes for different-sized objects. During training, the model calculates the loss function by comparing predicted and labeled values for anchor box classes and offsets, enabling accurate prediction of object classes and bounding box locations. Today I studied about various topics like multiscale anchor boxes, multiscale detection, single shot multibox detection and topics related to it.
 Below is the snapshot of the SSD model and its training code. I have uploaded full implementation on my github repo. Hope you will also spend some time learning about these topics from the book [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
 
 ![day24](images/day24.png)
@@ -332,3 +332,12 @@ Below is the snapshot of the SSD model and its training code. I have uploaded fu
 
 **Notebooks**
 - [**Single shot Multibox Detection**](https://github.com/drishyakarki/Dive-into-Deep-Learning/blob/main/computerVision/objDetection.ipynb)
+
+## Day 25
+
+Segmenatic segmentation recognizes and understands what are in an image in pixel level by dividing the images into regions belonging to different semantic classes. In semantic segmentation, since the input image and label correspond one-to-one on the pixel, the input image is randomly cropped to a fixed shape rather than rescaled. Today I studied about different topics such as R-CNNs, fast R-CNNs, faster R-CNN, mask R-CNN, semantic segmentation, transposed convolution. Below is the snapshot of the fully convolutional network model and its training code. Due to work and examinations, I cannot further continue the 100dayschallenge, so I will be stopping it. Although external commitments necessitate a pause in the #100DaysChallenge, the learning journey doesn't have to end. Dive deeper into these topics using the invaluable resource [**Dive into Deep Learning**](https://d2l.ai/). Keep Learning :)
+
+![day25](images/day25.png)
+
+**Resources**
+- [**Dive into Deep Learning**](https://d2l.ai/)
